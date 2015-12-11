@@ -1,0 +1,23 @@
+# Dictionary
+question = input("what word do you want to look up?")
+
+happy = "a positive feeling"
+Choco = "a cute dog"
+wprint = "make words show up on the layout"
+chapter_one = "Basics - getting to know the environment. learn the codes: input, print, asking a question, then answer with the learned information."
+environment = "is in chapter one"
+chapter_two = "drawing with turtle pen. change colors and shapes"
+variable = "a variable is something you want the computer to remember while your program is running. if X = 7, then the variable is x. use the equal sign to assign a value/string to a varible; we just have to remember to put quotation marks arond the string"
+value = "anything from the numbers values to strings - i.e letters symbols, sentences. if x=7, then the value is 7."
+assign = "a value to a variable with the equal sign - i.e an assignment like x = 7 tells the computer to remember the number 7 and give it back to us anything we call out x. My dictionary uses this code."
+string = "the complete sentence within the value"
+
+crwords = "variable..."
+wwords = "print..."
+crvariable = "1 - always begin with a letter. 2 - rest can be number, letter, or underline, no space or symbols - because python would think you've listed two variables seperated by a space. 3. case sensitive."
+
+
+legend = "cr+word means code rules, w+word means the word is also a command i.e print.l"
+
+
+update = "page 33 and study the word input"
